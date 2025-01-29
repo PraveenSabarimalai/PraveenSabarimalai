@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxqAUPmN7jzUl51Kw2zJiGfPQzKpYLRcSXaQ&s)]
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxqAUPmN7jzUl51Kw2zJiGfPQzKpYLRcSXaQ&s)
 <h1 align="center">Hi 👋, I'm Praveen S</h1>
 <h3 align="center">A passionate frontend developer from Tamilnadu India</h3>
 
